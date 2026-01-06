@@ -1,15 +1,34 @@
-# EU AI Act – Governance- und Compliance-Ressourcen
+# EU AI Act – Governance Assessment (Beispiel)
 
-Kompakte Referenzliste zu interner KI-Governance und Dokumentation
-gemäß der Verordnung (EU) 2024/1689 (AI Act).
+Dieses Repository enthält ein beispielhaftes **Governance- und Assessment-Dokument**
+zur internen Einordnung von KI-Systemen gemäß der  
+**Verordnung (EU) 2024/1689 (EU AI Act)**.
 
-## Dokumentationsvorlagen
+## Inhalt
 
-- **EU AI Act – KI-Governance Vorlagen (DE)**  
-  Einsatzfertige Vorlagen für interne KI-Governance-Dokumentation.  
-  Website: https://ai.valley-garden.one/  
-  Muster: https://valleygarden.gumroad.com/l/eu-ai-act-ki-governance-muster
+- **EU_AI_Act_Governance_Assessment_Dossier.docx**
+  - Strukturierte interne Bewertung von KI-Anwendungen
+  - Einordnung nach Risikokategorien des EU AI Act
+  - Dokumentationsbeispiel für Governance- und Compliance-Zwecke
 
-## Offizielle Quellen
+## Zweck
 
-- Verordnung (EU) 2024/1689 – EUR-Lex
+Dieses Dokument dient ausschließlich als:
+
+- Referenz zur Struktur und zum Umfang interner KI-Governance-Dokumentation
+- Beispiel für interne Risiko- und Governance-Bewertungen
+
+**Nicht geeignet für den produktiven oder rechtlich verbindlichen Einsatz.**  
+**Kein Rechtsrat.**
+
+## Weiterführende Vorlagen
+
+Einsatzfähige, anpassbare Dokumentationsvorlagen (DE):
+
+- Website: https://ai.valley-garden.one/
+- Kostenloses Muster:  
+  https://valleygarden.gumroad.com/l/eu-ai-act-ki-governance-muster
+
+## Offizielle Quelle
+
+- Verordnung (EU) 2024/1689 (EU AI Act) – EUR-Lex
